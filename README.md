@@ -175,7 +175,7 @@ The new extension includes an example, so you can go ahead and run it right away
 ### 4. Run your extension
 
 ```shell script
-$ cargo pgx run pg13  # or pg10 or pg11 or pg12
+$ cargo pgx run pg14  # or pg10 or pg11 or pg12 or pg13
 ```
 
 This compiles the extension to a shared library, copies it to the specified Postgres installation (in `~/.pgx/`),
